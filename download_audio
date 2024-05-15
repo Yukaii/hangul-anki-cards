@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Directory to save audio files
+output_dir="audio_files"
+
+# Create the directory if it doesn't exist
+mkdir -p "$output_dir"
+
+# Path to the JSON file
+json_file="rawData.json"
+
+# Extract audio URLs from the JSON and download the files
+jq -r '.consonants[].audio, .vowels[].audio' "$json_file" | while read -r url; do
+    # Extract filename from URL
+    filename=$(basename "$url")
+    # Download the file
+    curl -o "$output_dir/$filename" "$url"
+done
+

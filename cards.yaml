@@ -1,0 +1,276 @@
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄱ</b>
+    Back: >-
+      [sound:audio-giyeok.mp3] <br >Initial: g<br>Final: k<br>Pronunciation: “g”
+      as in “gun”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄲ</b>
+    Back: >-
+      [sound:audio-ssanggiyeok-new.mp3] <br >Initial: kk<br>Final:
+      k<br>Pronunciation:
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄴ</b>
+    Back: >-
+      [sound:audio-nieun-new.mp3] <br >Initial: n<br>Final: n<br>Pronunciation:
+      “n” in “northeast”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄷ</b>
+    Back: >-
+      [sound:audio-digeut.mp3] <br >Initial: d<br>Final: t<br>Pronunciation: “d”
+      in “door”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄸ</b>
+    Back: >-
+      [sound:audio-ssangdigeut.mp3] <br >Initial: tt<br>Final:
+      -<br>Pronunciation:
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㄹ</b>
+    Back: >-
+      [sound:audio-rieul.mp3] <br >Initial: r<br>Final: l<br>Pronunciation: “l”
+      in “ladder”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅁ</b>
+    Back: >-
+      [sound:audio-mieum.mp3] <br >Initial: m<br>Final: m<br>Pronunciation: “m”
+      in “mail”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅂ</b>
+    Back: >-
+      [sound:audio-bieup.mp3] <br >Initial: b<br>Final: p<br>Pronunciation: “b”
+      in “bed”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅃ</b>
+    Back: >-
+      [sound:audio-ssangbieup.mp3] <br >Initial: pp<br>Final:
+      -<br>Pronunciation:
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅅ</b>
+    Back: >-
+      [sound:audio-siot.mp3] <br >Initial: s<br>Final: t<br>Pronunciation: “s”
+      in “seashell”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅆ</b>
+    Back: >-
+      [sound:audio-ssangsiot.mp3] <br >Initial: ss<br>Final:
+      t<br>Pronunciation:
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅇ</b>
+    Back: '[sound:audio-ieung.mp3] <br >Initial: -<br>Final: ng<br>Pronunciation: '
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅈ</b>
+    Back: >-
+      [sound:audio-jieut.mp3] <br >Initial: j<br>Final: t<br>Pronunciation: “j”
+      in “jug”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅉ</b>
+    Back: >-
+      [sound:audio-ssangjieut.mp3] <br >Initial: jj<br>Final:
+      -<br>Pronunciation:
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅊ</b>
+    Back: >-
+      [sound:audio-chieut.mp3] <br >Initial: ch<br>Final: t<br>Pronunciation:
+      “ch” in “church”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅋ</b>
+    Back: >-
+      [sound:audio-kieuk.mp3] <br >Initial: k<br>Final: k<br>Pronunciation: “k”
+      in “key”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅌ</b>
+    Back: >-
+      [sound:audio-tieut-new.mp3] <br >Initial: t<br>Final: t<br>Pronunciation:
+      “t” in “teeth”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅍ</b>
+    Back: >-
+      [sound:audio-pieup-new.mp3] <br >Initial: p<br>Final: p<br>Pronunciation:
+      “p” in “pie”
+- type: Basic
+  tags:
+    - consonant
+  fields:
+    Front: <b>ㅎ</b>
+    Back: >-
+      [sound:audio-hieut.mp3] <br >Initial: h<br>Final: t<br>Pronunciation: “h”
+      in “hat”
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅏ</b>
+    Back: ' [sound:audio-a.mp3] <br> Romanization: a<br>Pronunciation: “a” as in “father”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅐ</b>
+    Back: ' [sound:audio-ae.mp3] <br> Romanization: ae<br>Pronunciation: “ae” as in “egg”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅑ</b>
+    Back: ' [sound:audio-ya.mp3] <br> Romanization: ya<br>Pronunciation: “ya” as in “yacht”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅒ</b>
+    Back: ' [sound:audio-yae.mp3] <br> Romanization: yae<br>Pronunciation: “yae” as in “yes”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅓ</b>
+    Back: ' [sound:audio-eo.mp3] <br> Romanization: eo<br>Pronunciation: “eo” as in “umbrella”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅔ</b>
+    Back: ' [sound:audio-e.mp3] <br> Romanization: e<br>Pronunciation: “e” as in “egg”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅕ</b>
+    Back: ' [sound:audio-yeo.mp3] <br> Romanization: yeo<br>Pronunciation: “yeo” as in “yummy”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅖ</b>
+    Back: ' [sound:audio-ye.mp3] <br> Romanization: ye<br>Pronunciation: “ye” as in “yes”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅗ</b>
+    Back: ' [sound:audio-o.mp3] <br> Romanization: o<br>Pronunciation: “o” as in “old”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅘ</b>
+    Back: ' [sound:audio-wa.mp3] <br> Romanization: wa<br>Pronunciation: “wa” as in “waffle”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅙ</b>
+    Back: ' [sound:audio-wae.mp3] <br> Romanization: wae<br>Pronunciation: “wae” as in “wedding”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅚ</b>
+    Back: ' [sound:audio-oe.mp3] <br> Romanization: oe<br>Pronunciation: “oe” as in “wedding”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅛ</b>
+    Back: ' [sound:audio-yo.mp3] <br> Romanization: yo<br>Pronunciation: “yo” as in “yogurt”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅜ</b>
+    Back: ' [sound:audio-u.mp3] <br> Romanization: u<br>Pronunciation: “u” as in “new”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅝ</b>
+    Back: ' [sound:audio-wo.mp3] <br> Romanization: wo<br>Pronunciation: “wo” as in “won”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅞ</b>
+    Back: ' [sound:audio-we.mp3] <br> Romanization: we<br>Pronunciation: “we” as in “wedding”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅟ</b>
+    Back: ' [sound:audio-wi.mp3] <br> Romanization: wi<br>Pronunciation: “wi” as in “week”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅠ</b>
+    Back: ' [sound:audio-yu.mp3] <br> Romanization: yu<br>Pronunciation: “yu” as in “unicorn”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅡ</b>
+    Back: ' [sound:audio-eu.mp3] <br> Romanization: eu<br>Pronunciation: “eu” as in “brook”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅢ</b>
+    Back: ' [sound:audio-ui.mp3] <br> Romanization: ui<br>Pronunciation: “ui” as in “gooey”'
+- type: Basic
+  tags:
+    - vowel
+  fields:
+    Front: <b>ㅣ</b>
+    Back: ' [sound:audio-i.mp3] <br> Romanization: i<br>Pronunciation: “i” as in “tree”'

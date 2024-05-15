@@ -1,0 +1,307 @@
+{
+  "//comment": "Extracted from https://www.90daykorean.com/how-to-learn-the-korean-alphabet/",
+  "consonants": [
+    {
+      "symbol": "ㄱ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-giyeok.mp3",
+      "romanization_initial": "g",
+      "romanization_final": "k",
+      "pronunciation": "“g” as in “gun”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㄲ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssanggiyeok-new.mp3",
+      "romanization_initial": "kk",
+      "romanization_final": "k",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㄴ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-nieun-new.mp3",
+      "romanization_initial": "n",
+      "romanization_final": "n",
+      "pronunciation": "“n” in “northeast”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㄷ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-digeut.mp3",
+      "romanization_initial": "d",
+      "romanization_final": "t",
+      "pronunciation": "“d” in “door”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㄸ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangdigeut.mp3",
+      "romanization_initial": "tt",
+      "romanization_final": "-",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㄹ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-rieul.mp3",
+      "romanization_initial": "r",
+      "romanization_final": "l",
+      "pronunciation": "“l” in “ladder”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅁ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-mieum.mp3",
+      "romanization_initial": "m",
+      "romanization_final": "m",
+      "pronunciation": "“m” in “mail”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅂ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-bieup.mp3",
+      "romanization_initial": "b",
+      "romanization_final": "p",
+      "pronunciation": "“b” in “bed”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅃ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangbieup.mp3",
+      "romanization_initial": "pp",
+      "romanization_final": "-",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅅ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-siot.mp3",
+      "romanization_initial": "s",
+      "romanization_final": "t",
+      "pronunciation": "“s” in “seashell”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅆ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangsiot.mp3",
+      "romanization_initial": "ss",
+      "romanization_final": "t",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅇ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ieung.mp3",
+      "romanization_initial": "-",
+      "romanization_final": "ng",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅈ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-jieut.mp3",
+      "romanization_initial": "j",
+      "romanization_final": "t",
+      "pronunciation": "“j” in “jug”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅉ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangjieut.mp3",
+      "romanization_initial": "jj",
+      "romanization_final": "-",
+      "pronunciation": "",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅊ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-chieut.mp3",
+      "romanization_initial": "ch",
+      "romanization_final": "t",
+      "pronunciation": "“ch” in “church”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅋ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-kieuk.mp3",
+      "romanization_initial": "k",
+      "romanization_final": "k",
+      "pronunciation": "“k” in “key”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅌ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-tieut-new.mp3",
+      "romanization_initial": "t",
+      "romanization_final": "t",
+      "pronunciation": "“t” in “teeth”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅍ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-pieup-new.mp3",
+      "romanization_initial": "p",
+      "romanization_final": "p",
+      "pronunciation": "“p” in “pie”",
+      "type": "consonant"
+    },
+    {
+      "symbol": "ㅎ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-hieut.mp3",
+      "romanization_initial": "h",
+      "romanization_final": "t",
+      "pronunciation": "“h” in “hat”",
+      "type": "consonant"
+    }
+  ],
+  "vowels": [
+    {
+      "symbol": "ㅏ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-a.mp3",
+      "romanization": "a",
+      "pronunciation": "“a” as in “father”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅐ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ae.mp3",
+      "romanization": "ae",
+      "pronunciation": "“ae” as in “egg”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅑ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ya.mp3",
+      "romanization": "ya",
+      "pronunciation": "“ya” as in “yacht”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅒ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yae.mp3",
+      "romanization": "yae",
+      "pronunciation": "“yae” as in “yes”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅓ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eo.mp3",
+      "romanization": "eo",
+      "pronunciation": "“eo” as in “umbrella”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅔ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-e.mp3",
+      "romanization": "e",
+      "pronunciation": "“e” as in “egg”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅕ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yeo.mp3",
+      "romanization": "yeo",
+      "pronunciation": "“yeo” as in “yummy”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅖ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ye.mp3",
+      "romanization": "ye",
+      "pronunciation": "“ye” as in “yes”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅗ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-o.mp3",
+      "romanization": "o",
+      "pronunciation": "“o” as in “old”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅘ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wa.mp3",
+      "romanization": "wa",
+      "pronunciation": "“wa” as in “waffle”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅙ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wae.mp3",
+      "romanization": "wae",
+      "pronunciation": "“wae” as in “wedding”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅚ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-oe.mp3",
+      "romanization": "oe",
+      "pronunciation": "“oe” as in “wedding”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅛ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yo.mp3",
+      "romanization": "yo",
+      "pronunciation": "“yo” as in “yogurt”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅜ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-u.mp3",
+      "romanization": "u",
+      "pronunciation": "“u” as in “new”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅝ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wo.mp3",
+      "romanization": "wo",
+      "pronunciation": "“wo” as in “won”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅞ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-we.mp3",
+      "romanization": "we",
+      "pronunciation": "“we” as in “wedding”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅟ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wi.mp3",
+      "romanization": "wi",
+      "pronunciation": "“wi” as in “week”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅠ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yu.mp3",
+      "romanization": "yu",
+      "pronunciation": "“yu” as in “unicorn”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅡ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eu.mp3",
+      "romanization": "eu",
+      "pronunciation": "“eu” as in “brook”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅢ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ui.mp3",
+      "romanization": "ui",
+      "pronunciation": "“ui” as in “gooey”",
+      "type": "vowel"
+    },
+    {
+      "symbol": "ㅣ",
+      "audio": "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-i.mp3",
+      "romanization": "i",
+      "pronunciation": "“i” as in “tree”",
+      "type": "vowel"
+    }
+  ]
+}
+

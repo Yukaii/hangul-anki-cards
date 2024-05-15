@@ -1,0 +1,16 @@
+{
+  "name": "hangul-anki-cards",
+  "type": "module",
+  "scripts": {
+    "start": "./download_audio && bun run ./generate_anki.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
