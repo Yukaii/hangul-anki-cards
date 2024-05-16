@@ -22,5 +22,11 @@ on macOS (`~/Library/Python/3.9/lib/python/site-packages/ankicli/loader.py`)
 ## Run
 
 ```bash
+# This should generate cards.yml at project root
 bun run start
+
+
+# macOS under /Users/$username/Library/Python/3.9/bin/anki-cli-unofficial
+# Create a deck name Hangul to import
+anki-cli-unofficial load cards.yaml  --media-dir audio_files --deck Hangul archive.apkg
 ```
