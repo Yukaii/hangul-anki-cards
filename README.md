@@ -33,6 +33,10 @@ bun run start
 anki-cli-unofficial load cards.yaml  --media-dir audio_files --deck Hangul archive.apkg
 ```
 
-### License
+## Credits
+
+Thank you gpt4o chan (I'll do this every time a new OpenAI model comes out lol)
+
+## License
 
 WTFPL
