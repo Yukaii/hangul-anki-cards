@@ -9,6 +9,8 @@ Create anki cards with the data from https://www.90daykorean.com/how-to-learn-th
 - curl
 - bun
 
+You might need to patch the package manually when error happens.
+
 on macOS (`~/Library/Python/3.9/lib/python/site-packages/ankicli/loader.py`)
 
 ```diff
