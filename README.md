@@ -30,3 +30,7 @@ bun run start
 # Create a deck name Hangul to import
 anki-cli-unofficial load cards.yaml  --media-dir audio_files --deck Hangul archive.apkg
 ```
+
+### License
+
+WTFPL
